@@ -1,0 +1,22 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:s="clr-namespace:System;assembly=mscorlib"
+                     xmlns:local="clr-namespace:EncryptFile">
+
+    <s:String x:Key="Title">EncryptFile</s:String>
+    
+    <s:String x:Key="Encryption">Encryption</s:String>
+    <s:String x:Key="Using">Using</s:String>
+    <s:String x:Key="TemporaryKey">Temporary Key</s:String>
+    <s:String x:Key="PersonalKey">Personal Key</s:String>
+    <s:String xml:space="preserve" x:Key="EncryptionDropTips">Drop one regural file here&#x0d;&#x0a; to encrypt.</s:String>
+    <s:String x:Key="EncrypteAndSave">Encrypt and save</s:String>
+
+    <s:String x:Key="Decryption">Decryption</s:String>
+    <s:String xml:space="preserve" x:Key="DecryptionDropTips">Drop encrypted(.data) and private key(.key) files here&#x0d;&#x0a; to decrypt.</s:String>
+    <s:String x:Key="DecrypteAndSave">Decrypt and save</s:String>
+
+    <s:String xml:space="preserve" x:Key="ClickToCheckVersion">           Click to&#x0d;&#x0a; check new version.</s:String>
+    <s:String x:Key="Feedback">Feedback</s:String>
+    
+</ResourceDictionary>

@@ -1,0 +1,23 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:s="clr-namespace:System;assembly=mscorlib"
+                     xmlns:local="clr-namespace:EncryptFile">
+
+    <s:String x:Key="Title">EF加密工具</s:String>
+
+    <s:String x:Key="Encryption">加密</s:String>
+    <s:String x:Key="Using">使用</s:String>
+    <s:String x:Key="TemporaryKey">临时密钥</s:String>
+    <s:String x:Key="PersonalKey">固定密钥</s:String>
+    <s:String xml:space="preserve" x:Key="EncryptionDropTips">请将需要加密的文件&#x0d;&#x0a;拖放到这里</s:String>
+    <s:String x:Key="EncrypteAndSave">加密并保存</s:String>
+
+    <s:String x:Key="Decryption">解密</s:String>
+    <s:String xml:space="preserve" x:Key="DecryptionDropTips">请将加密文件(.data)和对应的私钥文件(.key)&#x0d;&#x0a;拖放到这里</s:String>
+    <s:String x:Key="DecrypteAndSave">解密并保存</s:String>
+
+    <s:String xml:space="preserve" x:Key="ClickToCheckVersion">              点击&#x0d;&#x0a;       检查新版本</s:String>
+    <s:String x:Key="Feedback">咨询与反馈</s:String>
+
+
+</ResourceDictionary>
