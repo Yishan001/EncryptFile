@@ -1,5 +1,14 @@
-# EncryptFile
-Encrypt file with RSA2048 and AES256.
+<p align="center">
+  <img width="180" src="./public/logo.png" alt="EncryptFile">
+  <h1 align="center">EncryptFile</h1>
+  <p align="center">Encrypt file with RSA2048 and AES256(Windows)</p>
+</p>
+
+[![English badge](https://img.shields.io/badge/%E8%8B%B1%E6%96%87-English-blue)](./README.md)
+[![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-blue)](./README-ZH_CN.md)\
+![License](https://img.shields.io/badge/License-Apache%202-green.svg)
+![visitor](https://visitor-badge.glitch.me/badge?page_id=yishan001.encryptfile)
+[![downloads](https://img.shields.io/github/downloads/Yishan001/EncryptFile/total.svg?style=flat-square)](https://github.com/Yishan001/EncryptFile/releases)
 
 # Description
 1. EncrytFile use RSA2048 and AES256 to encrypt file.
