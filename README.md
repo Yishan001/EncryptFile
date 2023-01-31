@@ -9,10 +9,6 @@ Encrypt file with RSA2048 and AES256.
 # UI
 <div>
   <kbd>
-    <img align=top padding=2 src="https://user-images.githubusercontent.com/11456033/215786338-d29cb5b1-1e20-4f97-94d6-8d14e10624ce.png" width="300">
-  </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
     <img align=top src="https://user-images.githubusercontent.com/11456033/215807810-8ec33d22-6eef-4137-a60c-3f51525040d2.png" width="300">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
