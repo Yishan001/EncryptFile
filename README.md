@@ -36,5 +36,5 @@
 2. It will open exporer window and location to the decrypted file after finish.
 
 # Feedback
-It's a pleasure to hear from you.
+It's a pleasure to hear from you.<br>
 Please feel free to contact us by clicking the "Feedback" link.
